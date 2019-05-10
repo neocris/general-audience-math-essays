@@ -7,7 +7,7 @@ creation, pointing out some aspects of an essay written by [Seymour Papert][2]
 (the inventor of the Logo programming language), and contrasting those points
 to the claims made by famous people about the value of learning programming.
 
-The gist of it is that Papert believes programming is a useful tool for
+> The gist of it is that Papert believes programming is a useful tool for
 conveying ideas (specifically mathematical ideas). So if students struggle to
 learn a concept with pencil and paper, they might instead try to understand the
 concept by writing programs that elucidate it.
