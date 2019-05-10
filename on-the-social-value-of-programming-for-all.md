@@ -12,6 +12,8 @@ conveying ideas (specifically mathematical ideas). So if students struggle to
 learn a concept with pencil and paper, they might instead try to understand the
 concept by writing programs that elucidate it.
 
+>> kind-of didatic curry-howard isomorphism
+
 Apparently the whole world mistook Papert for saying, "Programming makes you
 smart," and that became canon. So people who don't know anything about
 programming (and a lot of people who do) are preaching that "everyone should
